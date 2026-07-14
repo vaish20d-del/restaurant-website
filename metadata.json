@@ -1,0 +1,6 @@
+{
+  "name": "Healthy Food Restaurant",
+  "description": "A premium, luxurious, and visually stunning restaurant website for Healthy Food, Brooklyn, New York.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
